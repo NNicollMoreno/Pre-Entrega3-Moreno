@@ -1,0 +1,20 @@
+$colorPrin: #8298D0;
+$ffPrin: Montserrat semibold;
+.bg-footer{
+    margin-top: 10px;
+}
+footer{
+    font-family: $ffPrin;
+    background-color: $colorPrin;
+    color: white;
+    padding: 15px;
+}
+h3{
+    margin-top: 3px;
+    font-size: 20px;
+}
+p{
+    font-family: $ffPrin;
+    font-size: 20px;
+}
+
